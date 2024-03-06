@@ -1,4 +1,4 @@
-![ios_chat2](https://github.com/RAWAN3830/Platform_Convetor/assets/138647473/f8784aec-3f41-48e0-adb7-741d183ad47c)
+<img src = "https://github.com/RAWAN3830/Platform_Convetor/assets/138647473/f8784aec-3f41-48e0-adb7-741d183ad47c " height="500"/>
 ![ios_contact2](https://github.com/RAWAN3830/Platform_Convetor/assets/138647473/d6e95858-28e9-44ac-ad38-7ca1e512f321)
 ![android_contact1](https://github.com/RAWAN3830/Platform_Convetor/assets/138647473/38e26438-e826-4649-9d9f-988ebea21c26)
 ![android_chat1](https://github.com/RAWAN3830/Platform_Convetor/assets/138647473/e83fc425-b6c2-4e9a-a288-7faf325f316d)
